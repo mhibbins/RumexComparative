@@ -1,0 +1,6 @@
+nohup Trinity --seqType fq --max_memory 20G --CPU 5 --output RsaPG1_trinity --full_cleanup --left /ohta/joanna.rifkin/RawReads/Rumex_comparative/TrimGalore/unfixrm_NS.1393.003.NEBNext_dual_i7_118---NEBNext_dual_i5_118.RsaPG1_R1.cor_val_1.fq.gz --right /ohta/joanna.rifkin/RawReads/Rumex_comparative/TrimGalore/unfixrm_NS.1393.003.NEBNext_dual_i7_118---NEBNext_dual_i5_118.RsaPG1_R2.cor_val_2.fq.gz &
+
+
+
+nohup Trinity --seqType fq --max_memory 20G --CPU 5 --output RsaPG2_trinity --full_cleanup --left /ohta/joanna.rifkin/RawReads/Rumex_comparative/TrimGalore/unfixrm_NS.1393.003.NEBNext_dual_i7_119---NEBNext_dual_i5_119.RsaPG2_R1.cor_val_1.fq.gz --right /ohta/joanna.rifkin/RawReads/Rumex_comparative/TrimGalore/unfixrm_NS.1393.003.NEBNext_dual_i7_119---NEBNext_dual_i5_119.RsaPG2_R2.cor_val_2.fq.gz &
+

@@ -1,0 +1,13 @@
+nohup Trinity --seqType fq --max_memory 20G --CPU 15 --output RBuc_trinity --left /ohta1/joanna.rifkin/RawReads/Rumex_comparative/TrimGalore/bucephalophorus/unfixrm_5_Index-6.RB1_R1.cor_val_1.fq.gz /ohta1/joanna.rifkin/RawReads/Rumex_comparative/TrimGalore/bucephalophorus/unfixrm_6_Index-6.RB1_R1.cor_val_1.fq.gz --right /ohta1/joanna.rifkin/RawReads/Rumex_comparative/TrimGalore/bucephalophorus/unfixrm_5_Index-6.RB1_R2.cor_val_2.fq.gz /ohta1/joanna.rifkin/RawReads/Rumex_comparative/TrimGalore/bucephalophorus/unfixrm_6_Index-6.RB1_R2.cor_val_2.fq.gz &
+
+
+
+
+
+
+
+nohup Trinity --seqType fq --max_memory 20G --CPU 5 --full_cleanup --output RBuc_trinity_5 --left /ohta1/joanna.rifkin/RawReads/Rumex_comparative/TrimGalore/bucephalophorus/unfixrm_5_Index-6.RB1_R1.cor_val_1.fq.gz --right /ohta1/joanna.rifkin/RawReads/Rumex_comparative/TrimGalore/bucephalophorus/unfixrm_5_Index-6.RB1_R2.cor_val_2.fq.gz &
+#116836
+
+nohup Trinity --seqType fq --max_memory 20G --CPU 5 --output RBuc_trinity --left /ohta1/joanna.rifkin/RawReads/Rumex_comparative/TrimGalore/bucephalophorus/unfixrm_5_Index-6.RB1_R1.cor_val_1.fq.gz /ohta1/joanna.rifkin/RawReads/Rumex_comparative/TrimGalore/bucephalophorus/unfixrm_6_Index-6.RB1_R1.cor_val_1.fq.gz --right /ohta1/joanna.rifkin/RawReads/Rumex_comparative/TrimGalore/bucephalophorus/unfixrm_5_Index-6.RB1_R2.cor_val_2.fq.gz /ohta1/joanna.rifkin/RawReads/Rumex_comparative/TrimGalore/bucephalophorus/unfixrm_6_Index-6.RB1_R2.cor_val_2.fq.gz &
+
